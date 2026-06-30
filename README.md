@@ -56,5 +56,5 @@ Database:
 
 ## Connect With Me
 
-LinkedIn (Coming Soon)
-TryHackMe (Coming Soon)
+LinkedIn ( www.linkedin.com/in/luqmaankaka )
+TryHackMe ( https://tryhackme.com/p/luqmaan.kaka02 )
