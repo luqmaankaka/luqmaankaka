@@ -57,4 +57,4 @@ Database:
 ## Connect With Me
 
 LinkedIn ( www.linkedin.com/in/luqmaankaka )
-TryHackMe ( https://tryhackme.com/p/luqmaan.kaka02 )
+TryHackMe ( tryhackme.com/p/luqmaan.kaka02 )
