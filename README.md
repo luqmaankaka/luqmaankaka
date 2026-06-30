@@ -1,16 +1,60 @@
-## Hi there 👋
+# Luqmaan Kaka
 
-<!--
-**luqmaankaka/luqmaankaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCom Economic Sciences with Economics & Informatics student at North-West University (Potchefstroom), building a career in Data Analytics.
+My academic background combines economics, business, information systems and quantitative analysis with practical experience in programming, databases and business intelligence.
+This GitHub documents my learning journey, university projects and technical portfolio as I continue developing practical data analytics skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- BCom Economic Sciences with Economics & Informatics student
+- Interested in Data Analytics, Business Intelligence and Information Systems
+- Building a practical portfolio through university projects and independent learning
+- Passionate about solving business problems using data and technology
+
+- ## Technical Areas
+
+- Data Analytics
+- Databases
+- Programming
+- Business Intelligence
+- Systems Analysis
+- Economics
+- Risk Management
+- Information Security
+
+## Current Focus
+
+- Documenting university projects professionally
+- Strengthening SQL, Python and Excel skills
+- Building a GitHub portfolio for graduate opportunities
+- Preparing for a career in Data Analytics
+
+## Technologies
+
+Programming:
+
+- Python
+- C#
+- SQL
+
+Development:
+
+- ASP.NET Web Forms
+- Windows Forms (.NET Framework)
+- Visual Studio
+
+Data & Analytics:
+
+- Microsoft Excel
+- EViews
+
+Database:
+
+- SQL
+- Database Design
+- Normalization
+
+## Connect With Me
+
+LinkedIn (Coming Soon)
+TryHackMe (Coming Soon)
